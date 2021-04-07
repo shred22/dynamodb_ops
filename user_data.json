@@ -1,0 +1,33 @@
+{
+    "Users": [{
+            "PutRequest": {
+                "Item": {
+                    "userid": {
+                        "S": "2"
+                    },
+                    "name": {
+                        "S": "Ricky J"
+                    },
+                    "emailId": {
+                        "S": "rickyj@test.com"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "userid": {
+                        "S": "3"
+                    },
+                    "name": {
+                        "S": "Vicky J"
+                    },
+                    "emailId": {
+                        "S": "vickyj@test.com"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "userid": {
+    "S": "1"
+  },
+  "name": {
+    "S": "Shreyas Dange"
+  },
+  "emailId": {
+    "S": "shd22@test.com"
+  }
+}
